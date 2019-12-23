@@ -1,2 +1,2 @@
-# my_first_project
-start learning git!
+# My First Project
+start learning git!!
